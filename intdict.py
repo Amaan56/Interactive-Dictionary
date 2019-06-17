@@ -11,7 +11,7 @@ def translate(word):
 
 
 
-word = input("Enter a word: ")
+word = input("Enter a word:  ")
 
 print(translate(word))
 
